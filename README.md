@@ -1,3 +1,5 @@
+> **IMPORTANT: the group and repository has moved to the W3C group github repo at https://github.com/w3c/dpv/ This repository is kept for archival purposes and will be removed.**
+
 # Data Privacy Vocabulary (DPV)
 
 [https://w3.org/ns/dpv](https://w3.org/ns/dpv)
@@ -5,6 +7,8 @@
 >  cite as: Pandit H.J. et al. (2019) Creating a Vocabulary for Data Privacy. In:  Panetto H., Debruyne C., Hepp M., Lewis D., Ardagna C., Meersman R.  (eds) On the Move to Meaningful Internet Systems: OTM 2019 Conferences.  OTM 2019. Lecture Notes in Computer Science, vol 11877. Springer, Cham.  https://doi.org/10.1007/978-3-030-33246-4_44
 
 ## Overview
+
+> **IMPORTANT: the group and repository has moved to the W3C group github repo at https://github.com/w3c/dpv/ This repository is kept for archival purposes and will be removed.**
 
 The Data Privacy Vocabulary provides terms (classes and properties) to annotate and categorize instances of legally compliant personal data handling according to the EU General Data Protection Regulation. This scope could be extended by later versions to other data and privacy protection regulations. 
 
@@ -64,5 +68,7 @@ Therefore, whenever adding a new term or changing existing ones, the following s
 5. Submit a pull-request for merging with the repository.
 
 ## Getting help and assistance
+
+> **IMPORTANT: the group and repository has moved to the W3C group github repo at https://github.com/w3c/dpv/ This repository is kept for archival purposes and will be removed.**
 
 If you're unsure about something, or would like clarifications, or suggestions - please drop us a line or open an issue. We would be happy to help.
